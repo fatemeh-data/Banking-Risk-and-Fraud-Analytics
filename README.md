@@ -26,3 +26,12 @@ Detection of suspicious patterns and fraudulent transactions.
 ### 🔹 Customer Overview
 Customer segmentation and behavioral insights.
 ![CustomerOverview](https://github.com/user-attachments/assets/97850ea1-318f-47de-bf07-e2fd169bfe15)
+---
+## 🧩 Data Model
+
+A well-structured data model was developed to connect multiple data sources, ensuring accurate analysis and efficient querying across credit risk, fraud detection, and customer insights.
+
+The relationships between tables were carefully designed to support scalable and reliable analytics.
+
+![Model](https://github.com/user-attachments/assets/783d2439-3390-434a-902e-127b78f4c0fe)
+
