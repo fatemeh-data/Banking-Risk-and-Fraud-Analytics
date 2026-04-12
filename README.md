@@ -169,17 +169,14 @@ This project demonstrates the ability to:
 
 ## 📁 Project Structure
 
-
-
-
-
-
-
-
-
-
-
-
+.
+├── README.md
+├── dashboards/
+│ ├── FraudDetection.JPG
+│ ├── CreditRisk.JPG
+│ └── CustomerOverview.JPG
+├── report/
+│ └── Banking_Risk_Fraud.pbix
 
 
 ## 📊 Dashboard Preview
