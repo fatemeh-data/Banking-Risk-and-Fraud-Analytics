@@ -1,3 +1,11 @@
+
+# 🏦 Banking Risk & Fraud Analytics Dashboard
+
+> Built using real-world banking data to simulate enterprise-level risk and fraud analytics.
+
+![1](https://github.com/user-attachments/assets/3672934d-870d-4e6b-9dc7-b82f48e447c1)
+
+
 # 🏦 Real-World Banking Risk & Fraud Analytics  
 **End-to-End Data Analytics Project | SQL • Power BI • Data Modeling**
 
